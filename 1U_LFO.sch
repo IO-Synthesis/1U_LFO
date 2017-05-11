@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="8.1.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -2268,12 +2268,12 @@ These are standard reverse protection diodes and small signal diodes. SMA packag
 <part name="P+3" library="supply1" deviceset="+12V" device=""/>
 <part name="P-2" library="supply1" deviceset="-12V" device=""/>
 <part name="P-3" library="supply1" deviceset="-12V" device=""/>
-<part name="C2" library="dp_devices" deviceset="CAPACITOR_POL" device="-CASE_B"/>
-<part name="C3" library="dp_devices" deviceset="CAPACITOR_POL" device="-CASE_B"/>
+<part name="C2" library="dp_devices" deviceset="CAPACITOR_POL" device="-CASE_B" value="10uF"/>
+<part name="C3" library="dp_devices" deviceset="CAPACITOR_POL" device="-CASE_B" value="10uF"/>
 <part name="D1" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="SOD123"/>
 <part name="D2" library="SparkFun-DiscreteSemi" deviceset="DIODE" device="SOD123"/>
-<part name="C4" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP"/>
-<part name="C5" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP"/>
+<part name="C4" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="100nF"/>
+<part name="C5" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="100nF"/>
 <part name="P+4" library="supply1" deviceset="+12V" device=""/>
 <part name="P+5" library="supply1" deviceset="+12V" device=""/>
 <part name="P-4" library="supply1" deviceset="-12V" device=""/>

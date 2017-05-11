@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="8.1.1">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -645,11 +645,11 @@ Please ensure your boards meet these minimum design rule requirements.</descript
 <attribute name="NAME" x="10.668" y="17.526" size="0.6096" layer="25" font="vector" ratio="18" rot="R90"/>
 <attribute name="VALUE" x="12.573" y="17.399" size="0.4064" layer="27" font="vector" rot="R90"/>
 </element>
-<element name="C2" library="dp_devices" package="CASE_B" value="" x="3.81" y="25.4" smashed="yes">
+<element name="C2" library="dp_devices" package="CASE_B" value="10uF" x="3.81" y="25.4" smashed="yes">
 <attribute name="NAME" x="4.69" y="29.45" size="1.27" layer="25" font="vector" ratio="18" rot="R180"/>
 <attribute name="VALUE" x="1.66" y="21.8075" size="1.27" layer="27" ratio="10"/>
 </element>
-<element name="C3" library="dp_devices" package="CASE_B" value="" x="21.59" y="3.81" smashed="yes" rot="R90">
+<element name="C3" library="dp_devices" package="CASE_B" value="10uF" x="21.59" y="3.81" smashed="yes" rot="R90">
 <attribute name="NAME" x="20.71" y="7.38" size="1.27" layer="25" font="vector" ratio="18"/>
 <attribute name="VALUE" x="25.1825" y="1.66" size="1.27" layer="27" ratio="10" rot="R90"/>
 </element>
@@ -661,11 +661,11 @@ Please ensure your boards meet these minimum design rule requirements.</descript
 <attribute name="NAME" x="10.541" y="6.096" size="0.6096" layer="25" font="vector" ratio="18"/>
 <attribute name="VALUE" x="9.398" y="4.191" size="0.4064" layer="27" rot="R270"/>
 </element>
-<element name="C4" library="SparkFun-Passives" package="0603-CAP" value="" x="10.795" y="26.67" smashed="yes" rot="R90">
+<element name="C4" library="SparkFun-Passives" package="0603-CAP" value="100nF" x="10.795" y="26.67" smashed="yes" rot="R90">
 <attribute name="NAME" x="10.033" y="25.781" size="0.6096" layer="25" font="vector" ratio="18" rot="R90"/>
 <attribute name="VALUE" x="11.938" y="25.654" size="0.4064" layer="27" font="vector" rot="R90"/>
 </element>
-<element name="C5" library="SparkFun-Passives" package="0603-CAP" value="" x="21.59" y="13.97" smashed="yes">
+<element name="C5" library="SparkFun-Passives" package="0603-CAP" value="100nF" x="21.59" y="13.97" smashed="yes">
 <attribute name="NAME" x="20.701" y="14.732" size="0.6096" layer="25" font="vector" ratio="18"/>
 <attribute name="VALUE" x="20.574" y="12.827" size="0.4064" layer="27" font="vector"/>
 </element>

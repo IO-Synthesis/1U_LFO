@@ -1,0 +1,25 @@
+Partlist exported from C:/Users/Erik/Documents/GitHub/1U_LFO/1U_LFO.sch at 4/30/2017 8:35 AM
+
+Part Value         Device               Package           Description                                       
+C1   100nF         CAP0603-CAP          0603-CAP          Capacitor                                         
+C2   10uF          CAPACITOR_POL-CASE_B CASE_B            Polarized capacitor in various packages           
+C3   10uF          CAPACITOR_POL-CASE_B CASE_B            Polarized capacitor in various packages           
+C4   100nF         CAP0603-CAP          0603-CAP          Capacitor                                         
+C5   100nF         CAP0603-CAP          0603-CAP          Capacitor                                         
+D1                 DIODESOD123          SOD-123           Diode                                             
+D2                 DIODESOD123          SOD-123           Diode                                             
+HZ   100K          9MM_SNAP-IN_POT_     9MM_SNAP-IN_POT   9mm vertical snap-in pot, Alpha / Panasonic style 
+IC1                DUALSMD              SO08              OP AMP                                            
+JP1                EUROPWR_TILE-TILE    1X03_EUROPWR_TILE PIN HEADER                                        
+LED1               LED3MM               LED3MM            LEDs                                              
+R1   33K           RESISTOR0603-RES     0603-RES          Resistor                                          
+R2   1K            RESISTOR0603-RES     0603-RES          Resistor                                          
+R3   390K          RESISTOR0603-RES     0603-RES          Resistor                                          
+R4   15K           RESISTOR0603-RES     0603-RES          Resistor                                          
+R5   1K            RESISTOR0603-RES     0603-RES          Resistor                                          
+R6   1K            RESISTOR0603-RES     0603-RES          Resistor                                          
+R7   1K            RESISTOR0603-RES     0603-RES          Resistor                                          
+R8   1K            RESISTOR0603-RES     0603-RES          Resistor                                          
+R9   1K            RESISTOR0603-RES     0603-RES          Resistor                                          
+SQU  THONKICONNOLD THONKICONNOLD        THONKICONN        3.5mm socket for Eurorack modular synths          
+TRI  THONKICONNOLD THONKICONNOLD        THONKICONN        3.5mm socket for Eurorack modular synths          
